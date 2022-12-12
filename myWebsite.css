@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Mulish;
+    src: url(static\mulish-variablefont_wght.ttf);
+  }
+body {background-image: url(istockphoto-1226478932-170667a.jpg);
+    font-family: Mulish;
+    padding: 20px;
+}
