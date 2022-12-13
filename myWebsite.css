@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Mulish;
+    src: url(static\mulish-variablefont_wght.ttf);
+  }
+body {
+    background-image: url(22F9901A-0258-4C03-81BD-05101ECD8FE3.jpg);
+    font-family: Mulish;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    border-top-left-radius: 37px 140px;
+  border-top-right-radius: 23px 130px;
+  border-bottom-left-radius: 110px 19px;
+  border-bottom-right-radius: 120px 24px;
+
+  display: block;
+  position: relative;
+  border: solid 3px #6e7491;
+  padding: 40px 60px;
+  max-width: 800px;
+  width: 18%;
+  margin: 100px auto 0;
+  font-size: 17px;
+  line-height: 28px;
+  transform: rotate(-1deg);
+  box-shadow: 3px 15px 8px -10px rgba(0, 0, 0, 0.3);
+  transition: all 0.13s ease-in;
+}
+
+.resume {
+    width: 150%;
+    background-color: rgb(255, 171, 171);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 1000px;
+
+}
+
+h1, h2, p, ul, li {
+    text-align: left;
+    
+}
+
+li{
+    font-weight: bolder;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  hr {
+    height: 2px;
+    background-color: rgb(56, 165, 42);
+    border-color: rgb(56, 165, 42);
+  }
+
